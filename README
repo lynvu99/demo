@@ -1,0 +1,5 @@
+Transactions deployed to: 0x778C0A9C1cC28A0e8Ed03AcAFa2A79F75A3A55c6(verified)
+
+- demo của em muốn làm một trang web giúp donate eth
+- demo của e đã làm front-end, smart contract và smart contract của em đã gửi được eth
+- những vấn đề còn lại là, kết nối front với smart contract để có thể gửi eth trực tiếp từ web và display những donation lên trang web
